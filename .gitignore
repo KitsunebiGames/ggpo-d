@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/ggpo-d
+ggpo-d.so
+ggpo-d.dylib
+ggpo-d.dll
+ggpo-d.a
+ggpo-d.lib
+ggpo-d-test-*
+*.exe
+*.o
+*.obj
+*.lst

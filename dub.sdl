@@ -1,0 +1,5 @@
+name "ggpo-d"
+description "D implementation of GGPO"
+authors "Luna"
+copyright "Copyright © 2021, Luna"
+license "MIT"
